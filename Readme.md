@@ -7,8 +7,8 @@
 
 
 目录<br>
-策略模式：strategy<br><br><br><br><br><br><br><br><br><br>
-
+策略模式：strategy<br>
+观察者模式：observer<br><br><br><br><br><br><br><br><br>
 
 
 
