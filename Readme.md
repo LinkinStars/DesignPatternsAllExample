@@ -9,7 +9,7 @@
 目录<br>
 策略模式：strategy<br>
 观察者模式：observer<br>
-装饰模式decorator<br>
+装饰模式：decorator<br>
 <br><br><br><br><br><br><br><br>
 
 
