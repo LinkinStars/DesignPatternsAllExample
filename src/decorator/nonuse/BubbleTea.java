@@ -7,7 +7,7 @@ package decorator.nonuse;
 public class BubbleTea extends MilkTea{
 
     /**
-     * 获取对于这个奶茶的描述
+     * 获取这个奶茶的描述
      */
     public String getDescription(){
         return super.getDescription() + " + 珍珠";

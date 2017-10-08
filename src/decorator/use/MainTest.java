@@ -32,5 +32,6 @@ public class MainTest {
         mixMilkTea = new ConcreteDecoratorA(mixMilkTea);
         mixMilkTea = new ConcreteDecoratorB(mixMilkTea);
         System.out.println(mixMilkTea.getDescription() + " : " + mixMilkTea.getCost() + "元");
+
     }
 }

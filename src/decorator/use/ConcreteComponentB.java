@@ -6,7 +6,7 @@ package decorator.use;
  */
 public class ConcreteComponentB extends Component {
     /**
-     * 获取对于这个奶茶的描述
+     * 获取这个奶茶的描述
      */
     public String getDescription(){
         return "无糖奶茶";
