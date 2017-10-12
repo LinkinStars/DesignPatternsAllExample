@@ -10,6 +10,7 @@
 策略模式：strategy<br>
 观察者模式：observer<br>
 装饰模式：decorator<br>
+简单工厂模式：simpleFactory<br>
 <br><br><br><br><br><br><br><br>
 
 
