@@ -1,7 +1,7 @@
 package factoryMethod.use;
 
 /**
- * 当使用简单工厂模式模式时
+ * 当使用工厂方法模式模式时
  * Created by LinkinStar
  */
 public class MainTest {
