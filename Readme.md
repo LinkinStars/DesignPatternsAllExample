@@ -12,6 +12,7 @@
 装饰模式：decorator<br>
 简单工厂模式：simpleFactory<br>
 工厂方法模式：factoryMethod<br>
+抽象工厂模式：abstractFactory<br>
 <br><br><br><br><br><br><br><br>
 
 
