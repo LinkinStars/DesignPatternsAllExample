@@ -13,6 +13,7 @@
 简单工厂模式：simpleFactory<br>
 工厂方法模式：factoryMethod<br>
 抽象工厂模式：abstractFactory<br>
+单例模式：singleton<br>
 <br><br><br><br><br><br><br><br>
 
 
