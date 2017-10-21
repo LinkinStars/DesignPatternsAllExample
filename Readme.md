@@ -14,6 +14,7 @@
 工厂方法模式：factoryMethod<br>
 抽象工厂模式：abstractFactory<br>
 单例模式：singleton<br>
+命令模式：command<br>
 <br><br><br><br><br><br><br><br>
 
 
