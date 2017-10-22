@@ -15,6 +15,7 @@
 抽象工厂模式：abstractFactory<br>
 单例模式：singleton<br>
 命令模式：command<br>
+适配器模式：adapter<br>
 <br><br><br><br><br><br><br><br>
 
 
