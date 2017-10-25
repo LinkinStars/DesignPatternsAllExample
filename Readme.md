@@ -16,6 +16,7 @@
 单例模式：singleton<br>
 命令模式：command<br>
 适配器模式：adapter<br>
+外观模式：facade<br>
 <br><br><br><br><br><br><br><br>
 
 
