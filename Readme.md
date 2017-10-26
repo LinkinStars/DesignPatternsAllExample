@@ -17,6 +17,7 @@
 命令模式：command<br>
 适配器模式：adapter<br>
 外观模式：facade<br>
+模板方法模式：templateMethod<br>
 <br><br><br><br><br><br><br><br>
 
 
