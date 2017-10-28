@@ -18,6 +18,7 @@
 适配器模式：adapter<br>
 外观模式：facade<br>
 模板方法模式：templateMethod<br>
+迭代器模式：iterator<br>
 <br><br><br><br><br><br><br><br>
 
 
