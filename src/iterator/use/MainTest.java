@@ -11,7 +11,6 @@ public class MainTest {
         TypeA typeA = new TypeA();
         TypeB typeB = new TypeB();
 
-
         Iterator iterator = typeA.createIterator();
         while (iterator.hasNext()) {
             System.out.println(iterator.next());
