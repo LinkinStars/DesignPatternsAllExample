@@ -20,6 +20,7 @@
 模板方法模式：templateMethod<br>
 迭代器模式：iterator<br>
 组合模式：composite<br>
+状态模式：state<br>
 
 <br><br><br><br><br><br><br><br>
 
