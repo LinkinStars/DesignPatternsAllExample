@@ -21,6 +21,7 @@
 迭代器模式：iterator<br>
 组合模式：composite<br>
 状态模式：state<br>
+代理模式：proxy<br>
 
 <br><br><br><br><br><br><br><br>
 
