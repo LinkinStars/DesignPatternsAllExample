@@ -22,6 +22,7 @@
 组合模式：composite<br>
 状态模式：state<br>
 代理模式：proxy<br>
+桥接模式：bridge<br>
 
 <br><br><br><br><br><br><br><br>
 
