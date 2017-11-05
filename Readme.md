@@ -24,6 +24,7 @@
 代理模式：proxy<br>
 桥接模式：bridge<br>
 建造者模式：builder<br>
+职责链模式：chainOfResponsibility<br>
 
 
 <br><br><br><br><br><br><br><br>
