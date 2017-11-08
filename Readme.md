@@ -27,6 +27,7 @@
 职责链模式：chainOfResponsibility<br>
 享元模式：flyweight<br>
 解释器模式：interpreter<br>
+中介者模式：mediator<br>
 
 
 <br><br><br><br><br><br><br><br>
