@@ -26,6 +26,7 @@
 建造者模式：builder<br>
 职责链模式：chainOfResponsibility<br>
 享元模式：flyweight<br>
+解释器模式：interpreter<br>
 
 
 <br><br><br><br><br><br><br><br>
