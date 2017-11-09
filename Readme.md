@@ -28,7 +28,7 @@
 享元模式：flyweight<br>
 解释器模式：interpreter<br>
 中介者模式：mediator<br>
-
+备忘录模式：memento<br>
 
 <br><br><br><br><br><br><br><br>
 
