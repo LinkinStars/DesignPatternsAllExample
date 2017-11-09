@@ -30,6 +30,8 @@
 中介者模式：mediator<br>
 备忘录模式：memento<br>
 原型模式：prototype<br>
+访问者模式：visitor<br>
+
 
 
 <br><br><br><br><br><br><br><br>
